@@ -1,0 +1,6 @@
+{
+  "name": "Rastreio de Compras",
+  "description": "Aplicativo simples de rastreio de compras utilizando CPF para consulta.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
